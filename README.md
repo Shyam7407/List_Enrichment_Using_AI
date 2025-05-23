@@ -1,6 +1,6 @@
 📂 File Overview
 
-##This project includes both a web interface and a CLI script version:
+##This project includes both a web interface and a script version:
 
 - `app.py` — A Streamlit-based web app for uploading and enriching CSVs.
 - `QF_innovate_assessmnent[1].py` — A standalone Python script that performs the same enrichment from the command line.
