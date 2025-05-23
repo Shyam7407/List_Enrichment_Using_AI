@@ -102,7 +102,7 @@ It will launch a local browser window with the web interface.
 💡 Notes
 The tool uses only <p> tags. You can modify scrape_homepage_text() to include <h1>, <h2>, etc.
 
-API usage is rate-limited. A time.sleep(1.5) is added after each request.
+API usage is rate-limited. A time.sleep(3) is added after each request.
 
 If homepage content is very short or blocked by JavaScript, the result might be N/A.
 
