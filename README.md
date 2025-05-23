@@ -7,7 +7,7 @@
 
 You can use either based on your preference:
 - Use `app.py` for a user-friendly web experience.
-- Use `QF_innovate_assessmnent.py` if you prefer automation or batch processing.
+- Use `QF_innovate_assessmnent[1].py` if you prefer automation or batch processing.
 
 # AI_Automation
 Lead Enrichment Automation Tool (QF Innovate Assessment)
